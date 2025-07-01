@@ -1,0 +1,99 @@
+[16:08:29] Sending: HOLD_POSITION
+[16:08:32] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:08:35] 🚫 Unable to reach boat for STOP
+[16:08:50] Sending: HOLD_POSITION
+[16:08:53] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:08:56] 🚫 Unable to reach boat for STOP
+[16:09:11] Sending: HOLD_POSITION
+[16:09:14] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:09:17] 🚫 Unable to reach boat for STOP
+[16:09:32] Sending: HOLD_POSITION
+[16:09:35] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:09:38] 🚫 Unable to reach boat for STOP
+[16:09:53] Sending: HOLD_POSITION
+[16:09:56] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:09:59] 🚫 Unable to reach boat for STOP
+[16:10:14] Sending: HOLD_POSITION
+[16:10:17] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:10:20] 🚫 Unable to reach boat for STOP
+[16:10:35] Sending: HOLD_POSITION
+[16:10:38] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:10:41] 🚫 Unable to reach boat for STOP
+[16:10:56] Sending: HOLD_POSITION
+[16:10:59] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:11:02] 🚫 Unable to reach boat for STOP
+[16:11:18] Sending: HOLD_POSITION
+[16:11:21] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:11:24] 🚫 Unable to reach boat for STOP
+[16:11:39] Sending: HOLD_POSITION
+[16:11:42] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:11:45] 🚫 Unable to reach boat for STOP
+[16:12:00] Sending: HOLD_POSITION
+[16:12:03] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:12:06] 🚫 Unable to reach boat for STOP
+[16:12:21] Sending: HOLD_POSITION
+[16:12:24] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:12:27] 🚫 Unable to reach boat for STOP
+[16:12:42] Sending: HOLD_POSITION
+[16:12:45] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:12:48] 🚫 Unable to reach boat for STOP
+[16:13:03] Sending: HOLD_POSITION
+[16:13:06] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:13:09] 🚫 Unable to reach boat for STOP
+[16:13:24] Sending: HOLD_POSITION
+[16:13:27] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:13:30] 🚫 Unable to reach boat for STOP
+[16:13:45] Sending: HOLD_POSITION
+[16:13:48] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:13:51] 🚫 Unable to reach boat for STOP
+[16:14:06] Sending: HOLD_POSITION
+[16:14:09] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:14:12] 🚫 Unable to reach boat for STOP
+[16:14:27] Sending: HOLD_POSITION
+[16:14:30] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:14:33] 🚫 Unable to reach boat for STOP
+[16:14:48] Sending: HOLD_POSITION
+[16:14:51] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:14:54] 🚫 Unable to reach boat for STOP
+[16:15:09] Sending: HOLD_POSITION
+[16:15:12] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:15:15] 🚫 Unable to reach boat for STOP
+[16:15:30] Sending: HOLD_POSITION
+[16:15:33] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:15:36] 🚫 Unable to reach boat for STOP
+[16:15:51] Sending: HOLD_POSITION
+[16:15:54] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:15:57] 🚫 Unable to reach boat for STOP
+[16:16:12] Sending: HOLD_POSITION
+[16:16:15] ❌ Failed to send 'HOLD_POSITION': timed out
+[16:16:18] 🚫 Unable to reach boat for STOP
+[16:33:28] Sending: HOLD_POSITION
+[16:33:28] ❌ Failed to send 'HOLD_POSITION': [Errno 51] Network is unreachable
+[16:33:28] 🚫 Unable to reach boat for STOP
+[16:34:15] Sending: HOLD_POSITION
+[16:34:15] ❌ Failed to send 'HOLD_POSITION': [Errno 51] Network is unreachable
+[16:34:15] 🚫 Unable to reach boat for STOP
+[16:38:01] Sending: HOLD_POSITION
+[16:38:01] ❌ Failed to send 'HOLD_POSITION': [Errno 61] Connection refused
+[16:38:01] 🚫 Unable to reach boat for STOP
+[16:38:16] Sending: HOLD_POSITION
+[16:38:16] ❌ Failed to send 'HOLD_POSITION': [Errno 51] Network is unreachable
+[16:38:16] 🚫 Unable to reach boat for STOP
+[16:55:47] Sending: HOLD_POSITION
+[16:55:47] ❌ Failed to send 'HOLD_POSITION': [Errno 51] Network is unreachable
+[16:55:47] 🚫 Unable to reach boat for STOP
+[16:59:25] Sending: HOLD_POSITION
+[16:59:25] ❌ Failed to send 'HOLD_POSITION': [Errno 51] Network is unreachable
+[16:59:25] 🚫 Unable to reach boat for STOP
+[17:14:55] Sending: HOLD_POSITION
+[17:14:55] ❌ Failed to send 'HOLD_POSITION': [Errno 51] Network is unreachable
+[17:14:55] 🚫 Unable to reach boat for STOP
+[17:26:00] Sending: HOLD_POSITION
+[17:26:00] ❌ Failed to send 'HOLD_POSITION': [Errno 51] Network is unreachable
+[17:26:00] 🚫 Unable to reach boat for STOP
+[17:28:36] Sending: HOLD_POSITION
+[17:28:36] ❌ Failed to send 'HOLD_POSITION': [Errno 51] Network is unreachable
+[17:28:36] 🚫 Unable to reach boat for STOP
+[17:37:13] Sending: HOLD_POSITION
+[17:37:17] ❌ Failed to send 'HOLD_POSITION': timed out
+[17:37:20] 🚫 Unable to reach boat for STOP
